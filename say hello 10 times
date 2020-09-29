@@ -1,0 +1,26 @@
+.6.1 :001 > def say_hello_ten_times
+2.6.1 :002?>   phrase = "hello world"
+2.6.1 :003?>   puts phrase
+2.6.1 :004?>   puts phrase
+2.6.1 :005?>   puts phrase
+2.6.1 :006?>   puts phrase
+2.6.1 :007?>   puts phrase
+2.6.1 :008?>   puts phrase
+2.6.1 :009?>   puts phrase
+2.6.1 :010?>   puts phrase
+2.6.1 :011?>   puts phrase
+2.6.1 :012?>   puts phrase
+2.6.1 :013?>   end
+ => :say_hello_ten_times 
+2.6.1 :014 > say_hello_ten_times
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
+ => nil 
